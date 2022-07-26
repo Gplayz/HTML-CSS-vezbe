@@ -1,0 +1,33 @@
+p{
+    font-family:Verdana;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 14px;
+}
+.q{
+    font-weight: bold;
+    font-size: 18px;
+}
+.w{
+    color: rgb(175, 175, 175);
+    margin-top: 4px;
+}
+.e{
+    width: 250px;
+    margin-top: 20px;
+}
+button{
+    padding:0;
+}
+.r{
+    color: white;
+    background-color: green;
+    border:none;
+    border-radius:5px;
+    margin-top: 18px;
+    padding-top:8px;
+    padding-bottom:8px;
+    padding-left:16px;
+    padding-right:16px;
+    cursor: pointer;
+}
