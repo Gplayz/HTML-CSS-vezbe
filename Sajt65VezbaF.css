@@ -1,0 +1,22 @@
+p{
+    font-family: arial;
+    font-size: 14px;
+    margin: 0;
+}
+.q{
+    font-weight: bold;
+    font-size: 22px;
+}
+.w{
+    margin-left: 6px;
+    color: rgb(165, 163, 163);
+}
+.e{
+    color: green;
+}
+.r{
+    color: rgb(165, 163, 163);        
+}
+.t{
+    color: red;
+}
