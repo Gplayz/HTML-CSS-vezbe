@@ -1,0 +1,14 @@
+p{
+    text-align: center;
+    font-size:14px;
+    margin: 0;
+}
+.q{
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 4px;
+}
+.w{
+    color:rgb(47, 0, 255);
+    cursor: pointer;
+}
