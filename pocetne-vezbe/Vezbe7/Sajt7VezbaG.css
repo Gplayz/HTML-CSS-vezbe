@@ -1,0 +1,32 @@
+.slika{
+    width: 25px;
+    height: 25px;
+    object-fit: cover;
+    object-position:center;
+    border-radius: 19.6349540849px;
+    vertical-align: middle;
+}
+.q{
+    vertical-align: middle;
+    border:none;
+    font-size: 10px;
+    padding-top: 6.7px;
+    padding-bottom: 6.7px;
+    color: rgb(153, 153, 153);
+    border-radius: 12.5px;
+    padding-left:10px;
+}
+.w{
+    font-size: 9px;
+    border: none;
+    color: white;
+    background-color: rgb(29, 155, 240);
+    padding-top: 4.8px;
+    padding-bottom: 4.8px;
+    padding-right: 8.91px;
+    padding-left: 8.91px;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+}
