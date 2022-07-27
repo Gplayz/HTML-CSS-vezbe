@@ -1,0 +1,11 @@
+    p{
+        display: inline-block;
+        width: 200px;
+        font-size: 14px;
+        font-family: arial;
+        font-weight: 525;
+        vertical-align: middle;
+    }
+    button{
+        vertical-align: middle;
+    }
