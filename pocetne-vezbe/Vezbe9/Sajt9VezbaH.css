@@ -1,0 +1,32 @@
+div{
+    text-align: center;
+}
+.q{
+    color:black;
+    
+}
+.trazi{
+border: none;
+font-size: 22px;
+font-family: Arial;
+box-shadow: 0px 2.5px 5px rgba(0, 0, 0, 0.15);
+border-radius: 5px;
+width: 640px;
+height: 40px;
+border-radius: 20px;
+padding-left: 18px;
+}
+button{
+    border:none;
+    color: black;
+    font-family: arial;
+    font-size: 22px;
+    background-color: rgb(240, 240, 240);
+    margin-top: 40px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-right: 10px;
+    cursor:pointer;
+}
