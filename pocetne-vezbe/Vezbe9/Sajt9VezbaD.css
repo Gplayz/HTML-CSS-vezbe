@@ -1,0 +1,19 @@
+div{
+    background-color: rgb(50, 50, 50);
+    width: 380px;
+    height: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom:10px
+}
+p{
+    font-family: arial;
+}
+.q{
+    color:white;
+    font-size: 18px;
+}
+.w{
+    color: gray;
+}
