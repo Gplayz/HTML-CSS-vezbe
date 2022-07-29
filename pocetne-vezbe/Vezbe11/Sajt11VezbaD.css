@@ -1,0 +1,59 @@
+.kontejner1,.kontejner2,.kontejner3{
+    height: 430px;
+    width: 230px;
+    box-shadow: 0px 2.5px 5px rgba(0, 0, 0, 0.3);
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.slika{
+    height: 300px;
+    width: 230px;
+    cursor: pointer;
+}
+p{
+    font-family: arial;
+    margin-bottom: 5px;
+    margin-top: 0;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.ime{
+    font-size: 18px;
+    margin-top: 8px;
+}
+.tekst{
+    font-size: 14px;
+    color: gray;
+    display: inline-block;
+    object-position: top;
+}
+.dugme{
+    font-family: arial;
+    font-size: 14px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background-color: rgb(54, 100, 252);
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-top: 8px;
+    cursor: pointer;
+}
+.GG{
+    width: 24px;
+    height: 24px;
+    object-fit: cover;
+    border-radius: 11.780972451px;
+    object-position: bottom;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+q{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+}
